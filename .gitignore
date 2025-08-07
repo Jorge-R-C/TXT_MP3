@@ -1,0 +1,21 @@
+# Ignorar entornos virtuales
+
+*.mp3
+texto_a_voz
+.venv/
+.envs/
+.conda/
+
+#Ignorar cache de python
+
+__pycache__/
+*.pyc 
+
+# Ignorar cache de pytest
+
+.pytest_cache/
+
+#Ignorar archivos de sistema 
+
+.DS_Store
+Thumbs.db
